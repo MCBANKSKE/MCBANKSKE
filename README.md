@@ -4,7 +4,8 @@
 <h3 align="center">Tech Entrepreneur | Software Developer | Forex Analyst | Consultant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Creating+Real+World+Systems.;Empowering+Startups+with+Technology.;Forex+Trader.;Travel+Consultant.;Upcoming+Mentor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Creating+Real+World+Systems.;Forex+Leaner+&+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technology."
+  />
 </p>
 
 ---
@@ -49,10 +50,10 @@ From **rental management platforms** to **recruitment systems**, **school suites
 
 ---
 
-### 🐍 GitHub Contributions Snake
+### GitHub Contributions 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MCBANKSKE/MCBANKSKE/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/MCBANKSKE/MCBANKSKE/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions" />
 </p>
 
 
