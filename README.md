@@ -4,7 +4,7 @@
 <h3 align="center">Tech Entrepreneur | Software Developer | Forex Analyst | Consultant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Creating+Real+World+Systems.;Forex+Leaner+&+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technology."
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Creating+Real+World+Systems.;Forex+Leaner+and+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technology."
   />
 </p>
 
