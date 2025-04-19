@@ -50,13 +50,6 @@ From **rental management platforms** to **recruitment systems**, **school suites
 
 ---
 
-### GitHub Contributions 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MCBANKSKE/MCBANKSKE/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions" />
-</p>
-
-
 ---
 
 ### 📈 Profile Visitors
