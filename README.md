@@ -29,14 +29,26 @@ From **rental management platforms** to **recruitment systems**, **school suites
 
 ### 🛠️ My Systems & Solutions
 
-| 💡 System | 📝 Description | 🌐 Live Link |
-|----------|----------------|--------------|
-| **Rental System** | Tenant, unit, and payment management | [Visit](https://test.ukwaju.systems) |
-| **Recruitment System** | For employers and job seekers | [Visit](https://mcbanks.rmsystems.site) |
-| **School Suite** | Academics, finance, and reports | [Visit](https://school.rmsystems.site) |
-| **Church App** | Attendance, tithe, membership | [Visit](https://church.rmsystems.site) |
-| **Logistics Platform** | Fulfillment and parcel tracking | [Visit](https://logistics.rmsystems.site) |
-| **Client Websites** | Portfolio of client-facing websites | [Dreamland](https://dreamlandmanpower.com), [Eamal](https://eamalsolutions.co.ke), [Morara](https://morara.rmsystems.site), [Joyfam](https://mcbanks.rmsystems.site) |
+#### 🌐 Websites
+
+| 💼 Category             | 🔗 Websites                                                                                                                                       |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Logistics & Courier** | [Wakah Logistics](https://www.wakah.co.ke)                                                                                                         |
+| **Recruitment Agencies** | [Dreamland Manpower](https://www.dreamlandmanpower.com), [Denstar](https://www.denstar.co.ke), [Eamal Solutions](https://www.eamalsolutions.co.ke), [Joyfam Ltd](https://www.joyfamltd.co.ke), [Studysphere Global](https://www.studysphereglobal.co.ke) |
+| **Forex Trading Service** | [Ideal Trading](https://www.idealtrading.co.ke)                                                                                                  |
+| **Legal & Advocacy**     | [Morara Advocates](https://morara.rmsystems.site)                                                                                                |
+
+#### 🖥️ Management Systems
+
+| 💡 System              | 📝 Description                                 | 🌐 Live Link                          |
+|------------------------|-----------------------------------------------|---------------------------------------|
+| **Recruitment MS**     | Manage job seekers, employers, and applications | [Visit](https://rmsystems.site)       |
+| **School MS**          | Academic records, finance, and reporting       | [Visit](https://school.rmsystems.site)|
+| **Church MS**          | Manage attendance, tithe, and membership       | [Visit](https://church.rmsystems.site)|
+| **Rental MS**          | Track units, tenants, and payments             | [Visit](https://test.ukwaju.systems)  |
+| **Invoicing & Accounting** | Create and manage invoices and financials | [Visit](https://uplenza.co.ke)        |
+| **Procurement & Inventory** | Stock tracking and procurement workflows | [Visit](https://proc.rmsystems.site)  |
+
 
 ---
 
