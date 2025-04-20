@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I'm **MC BANKS** — a visionary **techpreneur** and system developer from **Mombasa, Kenya** <img src="https://em-content.zobj.net/source/joypixels/369/flag-kenya_1f1f0-1f1ea.png" width="30" />
+I'm **MC BANKS** — a visionary **techpreneur** and system developer from **Mombasa** <img src="https://em-content.zobj.net/source/joypixels/369/flag-kenya_1f1f0-1f1ea.png" width="30" />
  .  
 I specialize in crafting **smart digital solutions** that power businesses and solve real-world problems.
 
