@@ -1,25 +1,23 @@
-
-
-<h1 align="center">Hey 👋 I'm MC BANKS</h1>
-<h3 align="center">Tech Entrepreneur | Software Developer | Forex Analyst | Consultant</h3>
+<h1 align="center">🇰🇪 Hey there, I'm MC BANKS</h1>
+<h3 align="center">Techpreneur • Software Developer • Forex Analyst • Consultant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Creating+Real+World+Systems.;Forex+Leaner+and+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technolojia."
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Building+Real+World+Systems.;Forex+Leaner+and+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technolojia." />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-Hi, I'm MC BANKS — a passionate tech-driven entrepreneur based in **Mombasa, Kenya** 🇰🇪.  
-I specialize in designing, developing, and deploying **digital solutions** for businesses and individuals.
+I'm **MC BANKS** — a visionary **techpreneur** and system developer from **Mombasa, Kenya** 🇰🇪.  
+I specialize in crafting **smart digital solutions** that power businesses and solve real-world problems.
 
-From **rental management platforms** to **recruitment systems**, **school suites**, and **church apps** — I build systems that solve real-world problems.
+From **school and rental management**, to **recruitment**, **church apps**, and **logistics platforms** —  
+I design and build complete systems with a strong focus on functionality, automation, and impact.
 
 ---
 
-### 🔧 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,python,mysql,figma,bootstrap,vscode,github" />
@@ -27,76 +25,66 @@ From **rental management platforms** to **recruitment systems**, **school suites
 
 ---
 
-### 🛠️ My Systems & Solutions
-
-#### 🌐 Websites
-
-| 💼 Category             | 🔗 Websites                                                                                                                                       |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Logistics & Courier** | [Wakah Logistics](https://www.wakah.co.ke)                                                                                                         |
-| **Recruitment Agencies** | [Dreamland Manpower](https://www.dreamlandmanpower.com), [Denstar](https://www.denstar.co.ke), [Eamal Solutions](https://www.eamalsolutions.co.ke), [Joyfam Ltd](https://www.joyfamltd.co.ke), [Studysphere Global](https://www.studysphereglobal.co.ke) |
-| **Forex Trading Service** | [Ideal Trading](https://www.idealtrading.co.ke)                                                                                                  |
-| **Legal & Advocacy**     | [Morara Advocates](https://morara.rmsystems.site)                                                                                                |
+### 🌐 Projects & Solutions
 
 #### 🖥️ Management Systems
 
-| 💡 System              | 📝 Description                                 | 🌐 Live Link                          |
-|------------------------|-----------------------------------------------|---------------------------------------|
-| **Recruitment MS**     | Manage job seekers, employers, and applications | [Visit](https://rmsystems.site)       |
-| **School MS**          | Academic records, finance, and reporting       | [Visit](https://school.rmsystems.site)|
-| **Church MS**          | Manage attendance, tithe, and membership       | [Visit](https://church.rmsystems.site)|
-| **Rental MS**          | Track units, tenants, and payments             | [Visit](https://test.ukwaju.systems)  |
-| **Invoicing & Accounting** | Create and manage invoices and financials | [Visit](https://uplenza.co.ke)        |
-| **Procurement & Inventory** | Stock tracking and procurement workflows | [Visit](https://proc.rmsystems.site)  |
+| 💡 System                    | 📝 Description                              | 🔗 Live Link                          |
+|-----------------------------|----------------------------------------------|---------------------------------------|
+| **Recruitment MS**          | Jobs, employers, applications                 | [Visit](https://rmsystems.site)       |
+| **School MS**               | Academics, finance, reports                  | [Visit](https://school.rmsystems.site)|
+| **Church MS**               | Attendance, tithe, membership                | [Visit](https://church.rmsystems.site)|
+| **Rental MS**               | Units, tenants, payments                     | [Visit](https://test.ukwaju.systems)  |
+| **Invoicing & Accounting**  | Invoices, receipts, financial management     | [Visit](https://uplenza.co.ke)        |
+| **Procurement & Inventory** | Stock, purchasing, inventory tracking        | [Visit](https://proc.rmsystems.site)  |
 
+#### 🌍 Client & Business Websites
+
+| 💼 Category               | 🌐 Websites |
+|--------------------------|-------------|
+| **Logistics & Courier**   | [Wakah Logistics](https://www.wakah.co.ke) |
+| **Recruitment Agencies** | [Dreamland](https://dreamlandmanpower.com), [Denstar](https://denstar.co.ke), [Eamal](https://eamalsolutions.co.ke), [Joyfam](https://joyfamltd.co.ke), [Studysphere](https://studysphereglobal.co.ke) |
+| **Forex Services**       | [Ideal Trading](https://idealtrading.co.ke) |
+| **Law Firm**             | [Morara Advocates](https://morara.rmsystems.site) |
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical" />
 </p>
-
----
 
 ---
 
 ### 📈 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MCBANKSKE&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=MCBANKSKE&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-### 📬 Contact & Socials
+### 📬 Connect with Me
 
 <p align="left">
-  <b>🌐 Website:</b> <a href="https://mcbanks.rmsystems.site">mcbanks.rmsystems.site</a><br/>
-  <b>📧 Email:</b> <a href="mailto:info@rmsystems.site">info@rmsystems.site</a><br/>
-  <b>📱 Phone/WhatsApp:</b> 
-    <a href="https://wa.me/254798808796">+254 798 808 796</a>, 
-    <a href="https://wa.me/254777808796">+254 777 808 796</a><br/>
-  <b>🐙 GitHub:</b> <a href="https://github.com/MCBANKSKE">@MCBANKSKE</a><br/>
-  <b>📸 Instagram:</b> <a href="https://instagram.com/mcbanks.ke">@mcbanks.ke</a><br/>
-  <b>📘 Facebook:</b> <a href="https://facebook.com/mcbanks.ke">MC BANKS</a><br/>
-  <b>💼 LinkedIn:</b> <a href="https://linkedin.com/in/mcbanks">MC BANKS</a>
+  🌐 <strong>Website:</strong> <a href="https://mcbanks.rmsystems.site">mcbanks.rmsystems.site</a><br>
+  📧 <strong>Email:</strong> <a href="mailto:info@rmsystems.site">info@rmsystems.site</a><br>
+  📱 <strong>Phone/WhatsApp:</strong> <a href="https://wa.me/254798808796">+254 798 808 796</a>, <a href="https://wa.me/254777808796">+254 777 808 796</a><br>
+  🐙 <strong>GitHub:</strong> <a href="https://github.com/MCBANKSKE">@MCBANKSKE</a><br>
+  📸 <strong>Instagram:</strong> <a href="https://instagram.com/mcbanks.ke">@mcbanks.ke</a><br>
+  📘 <strong>Facebook:</strong> <a href="https://facebook.com/mcbanks.ke">MC BANKS</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/mcbanks">MC BANKS</a>
 </p>
 
 ---
 
-### 💬 Let's Collaborate!
+### 🤝 Let's Build Together
 
-If you’re looking to build your brand, automate your business, or bring your startup idea to life —  
-💬 Let’s talk. I offer **tech development, consultation, and training** tailored to your needs.
-
----
+Looking to scale your business, launch a platform, or bring your startup idea to life?  
+💬 Let’s collaborate! I offer **custom system development**, **tech strategy**, and **business automation** services.
 
 > _“You don’t need to be a coder to benefit from technology. You need a solution — I help you build it.”_  
 > — **MC BANKS**
-
----
-
