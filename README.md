@@ -1,4 +1,4 @@
-<h1 align="center">🇰🇪 Hey there, I'm MC BANKS</h1>
+<h1 align="center"> Hey there, I'm MC BANKS</h1>
 <h3 align="center">Techpreneur • Software Developer • Forex Analyst • Consultant</h3>
 
 <p align="center">
@@ -9,7 +9,8 @@
 
 ### 🧠 About Me
 
-I'm **MC BANKS** — a visionary **techpreneur** and system developer from **Mombasa, Kenya** 🇰🇪.  
+I'm **MC BANKS** — a visionary **techpreneur** and system developer from **Mombasa, Kenya** <img src="https://em-content.zobj.net/source/joypixels/369/flag-kenya_1f1f0-1f1ea.png" width="30" />
+ .  
 I specialize in crafting **smart digital solutions** that power businesses and solve real-world problems.
 
 From **school and rental management**, to **recruitment**, **church apps**, and **logistics platforms** —  
