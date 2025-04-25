@@ -1,8 +1,8 @@
 <h1 align="center"> Hey there, I'm MC BANKS</h1>
 <h3 align="center">Techpreneur • Software Developer • Forex Analyst • Consultant</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Building+Real+World+Systems.;Forex+Leaner+and+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technolojia." />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Building+Real+World+Systems.;Forex+Leaner+and+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technology." />
 </p>
 
 ---
@@ -53,10 +53,11 @@ I design and build complete systems with a strong focus on functionality, automa
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-1m7fwzs7l-mcbankskes-projects.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-1m7fwzs7l-mcbankskes-projects.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical" />
 </p>
+
 
 ---
 
