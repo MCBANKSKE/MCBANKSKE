@@ -58,9 +58,6 @@ I design and build complete systems with a strong focus on functionality, automa
   <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical" />
 </p>
 
-
-
-
 ---
 
 ### 📈 Profile Visitors
