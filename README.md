@@ -53,8 +53,8 @@ I design and build complete systems with a strong focus on functionality, automa
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-c2oo-7m2iywh76-mcbankskes-projects.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-c2oo-7m2iywh76-mcbankskes-projects.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical" />
 </p>
 
