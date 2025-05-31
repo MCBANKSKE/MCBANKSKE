@@ -2,8 +2,9 @@
 <h3 align="center">Techpreneur • Software Developer • Forex Analyst • Consultant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Building+Real+World+Systems.;Forex+Learner+and+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technology." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=800&lines=Building+Real+World+Systems.;Forex+Learner+and+Trader.;Travel+Consultant.;Upcoming+Mentor.;Empowering+Startups+with+Technology." />
 </p>
+
 
 ---
 
