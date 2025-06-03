@@ -52,7 +52,7 @@
 | Logistics & Courier      | [Wakah Logistics](https://www.wakah.co.ke) |
 | Recruitment Agencies     | [Dreamland](https://dreamlandmanpower.com), [Denstar](https://denstar.co.ke), [Eamal](https://eamalsolutions.co.ke), [Joyfam](https://joyfamltd.co.ke), [Studysphere](https://studysphereglobal.co.ke) |
 | Forex Services           | [Ideal Trading](https://idealtrading.co.ke) |
-| Law Firm                 | [Morara Advocates](https://moraranyangitoadv.com) |
+| Law Firm                 | [Morara Advocates](https://moraranyangitoadv.co.ke) |
 
 ---
 
