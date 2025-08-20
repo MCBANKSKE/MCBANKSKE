@@ -36,23 +36,26 @@
 
 ### 🖥️ Management Platforms
 
-| System                      | Description                               | Live Demo / Link                   |
-|-----------------------------|-------------------------------------------|------------------------------------|
-| Recruitment MS              | Jobs, employers, applications             | [Visit](https://rmsystems.site)       |
-| School MS                   | Academics, finance, reports               | [Visit](https://school.rmsystems.site)|
-| Church MS                   | Attendance, tithe, membership             | [Visit](https://church.rmsystems.site)|
-| Rental MS                   | Units, tenants, payments                  | [Visit](https://test.ukwaju.systems)  |
-| Invoicing & Accounting      | Invoices, receipts, financial management  | [Visit](https://uplenza.co.ke)        |
-| Procurement & Inventory     | Stock, purchasing, inventory tracking     | [Visit](https://proc.rmsystems.site)  |
+| System                      | Description                               | Live Demo / Link                           |
+|-----------------------------|-------------------------------------------|--------------------------------------------|
+| Recruitment MS              | Jobs, employers, applications             | [Visit](https://rmsystems.site)            |
+| School MS                   | Academics, finance, reports               | [Visit](https://school.rmsystems.site)     |
+| Church MS                   | Attendance, tithe, membership             | [Visit](https://church.rmsystems.site)     |
+| Rental MS                   | Units, tenants, payments                  | [Visit](https://test.ukwaju.systems)       |
+| Invoicing & Accounting      | Invoices, receipts, financial management  | [Visit](https://uplenza.co.ke)             |
+| Procurement & Inventory     | Stock, purchasing, inventory tracking     | [Visit](https://proc.rmsystems.site)       |
+| Investment Platform system  | Invest and get returns % set by admin     | [Visit](https://invest.rmsystems.site)     |
+| ProofPoint project manager  | diaspora to safely fund projects b        | [Visit](https://proofpoint.rmsystems.site) |
 
 ### 🌍 Business & Client Websites
 
 | Sector                   | Example Sites |
 |--------------------------|--------------|
 | Logistics & Courier      | [Wakah Logistics](https://www.wakah.co.ke) |
-| Recruitment Agencies     | [Dreamland](https://dreamlandmanpower.com), [Denstar](https://denstar.co.ke), [Eamal](https://eamalsolutions.co.ke), [Joyfam](https://joyfamltd.co.ke), [Studysphere](https://studysphereglobal.co.ke) |
+| Recruitment Agencies     | [Legit Manpower](https://legitmanpower.com), [Eamal](https://eamalsolutions.co.ke) |
 | Forex Services           | [Ideal Trading](https://idealtrading.co.ke) |
 | Law Firm                 | [Morara Advocates](https://moraranyangitoadv.co.ke) |
+| Property Sales           | [Legit Smart Ventures](https://legitsmartventure.com) |
 
 ---
 
