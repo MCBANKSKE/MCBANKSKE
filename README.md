@@ -36,16 +36,16 @@
 
 ### 🖥️ Management Platforms
 
-| System                      | Description                               | Live Demo / Link                           |
-|-----------------------------|-------------------------------------------|--------------------------------------------|
-| Recruitment MS              | Jobs, employers, applications             | [Visit](https://rmsystems.site)            |
-| School MS                   | Academics, finance, reports               | [Visit](https://school.rmsystems.site)     |
-| Church MS                   | Attendance, tithe, membership             | [Visit](https://church.rmsystems.site)     |
-| Rental MS                   | Units, tenants, payments                  | [Visit](https://test.ukwaju.systems)       |
-| Invoicing & Accounting      | Invoices, receipts, financial management  | [Visit](https://uplenza.co.ke)             |
-| Procurement & Inventory     | Stock, purchasing, inventory tracking     | [Visit](https://proc.rmsystems.site)       |
-| Investment Platform system  | Invest and get returns % set by admin     | [Visit](https://invest.rmsystems.site)     |
-| ProofPoint project manager  | diaspora to safely fund projects b        | [Visit](https://proofpoint.rmsystems.site) |
+| System                      | Description                               | 
+|-----------------------------|-------------------------------------------|
+| Recruitment MS              | Jobs, employers, applications             |
+| School MS                   | Academics, finance, reports               | 
+| Church MS                   | Attendance, tithe, membership             | 
+| Rental MS                   | Units, tenants, payments                  | 
+| Invoicing & Accounting      | Invoices, receipts, financial management  | 
+| Procurement & Inventory     | Stock, purchasing, inventory tracking     | 
+| Investment Platform system  | Invest and get returns % set by admin     |
+| ProofPoint project manager  | diaspora to safely fund projects b        | 
 
 ### 🌍 Business & Client Websites
 
