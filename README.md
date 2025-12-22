@@ -10,8 +10,9 @@
   <img src="https://img.shields.io/badge/💡_Empowering_with_Tech-10B981?style=for-the-badge" />
 </p>
 
+<!-- Fixed Banner Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MCBANKSKE/MCBANKSKE/main/assets/banner.svg" alt="Banner" width="90%" />
+  <img src="https://via.placeholder.com/800x200/0D1117/7C3AED?text=MC+BANKS+TECHPRENEUR+%E2%80%A2+SOFTWARE+DEVELOPER" alt="Banner" width="90%" />
 </div>
 
 ---
@@ -95,11 +96,14 @@ I'm a **self-taught techpreneur** with a passion for building systems that solve
 
 ## 📈 **GitHub Analytics**
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-| **Statistics** | **Languages** | **Streak** |
-|---------------|---------------|------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=FFFFFF" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" width="400" /> | <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=FFFFFF" width="400" /> |
+| | |
+|:---:|:---:|
+| **Statistics** | **Languages** |
+| <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=FFFFFF" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" width="400" /> |
+| **GitHub Streak** | |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCBANKSKE&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=FFFFFF" width="400" /> | |
 
 </div>
 
