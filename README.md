@@ -1,7 +1,7 @@
 # 👑 MC BANKS 🌟
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&height=65&lines=Techpreneur+•+Software+Developer+•+Systems+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=2500&pause=500&color=7C3AED&center=true&vCenter=true&width=950&height=65&lines=Techpreneur;Software+Developer;Systems+Architect;Laravel+Specialist;Android+Developer;PHP+Expert;Kotlin+Engineer;Business+Automation+Specialist&repeat=true&random=false" />
 </h1>
 
 <div align="center">
