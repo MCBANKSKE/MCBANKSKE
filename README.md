@@ -1,7 +1,7 @@
 # 👑 MC BANKS 🌟
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&height=65&lines=Techpreneur+•+Software+Developer+•+Systems+Architect;Laravel+•+Android+•+PHP+•+Kotlin;Architecting+Production‑Grade+Business+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&height=65&lines=Techpreneur+•+Software+Developer+•+Systems+Architect" />
 </h1>
 
 <div align="center">
@@ -86,7 +86,7 @@ I don't just build applications — I design <strong>long‑term digital infrast
 | ⭐ | Platform                 | What I Built                                            | Architecture Stack                                      | Live Link                                              |
 | - | ------------------------ | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ |
 | ⭐ | **Wakah Cargo (Global)** | Auth, Admin Panel, Order Flow, Payments, SMS, Reporting | Laravel • MySQL • Redis • M‑Pesa • SMS Gateway • Docker | [https://wakahcargo.com](https://wakahcargo.com)       |
-|   | Wakah Cargo Tanzania     | Localization, Pricing Engine, Ops Dashboard             | Laravel • MySQL • M‑Pesa                                | [https://tz.wakahcargo.com](https://tz.wakahcargo.com) |
+|   | Wakah Cargo Tanzania     | Localization, Pricing Engine, Ops Dashboard             | Laravel • MySQL • M‑Pesa                                | [https://tz.wakahcargo.com](https://wakah.co.tz) |
 |   | Wakah Cargo Uganda       | Regional Rules, Ops Automation                          | Laravel • MySQL • Mobile Payments                       | [https://ug.wakahcargo.com](https://ug.wakahcargo.com) |
 
 ---
@@ -230,5 +230,3 @@ I don't just build applications — I design <strong>long‑term digital infrast
 </div>
 
 <p align="center"><i>🚀 Ready to transform your business with technology? Let's build something remarkable.</i></p>
-
----
