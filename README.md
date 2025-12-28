@@ -139,18 +139,18 @@ I don't just build applications — I design <strong>long‑term digital infrast
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 40px 0;">
 
 <!-- GitHub Stats Card -->
-<div style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=FFFFFF" alt="GitHub Stats" />
+<div style="width: 45%; min-width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=FFFFFF" alt="GitHub Stats" loading="lazy" />
 </div>
 
 <!-- GitHub Streak Card -->
-<div style="width: 45%;">
-  <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+<div style="width: 45%; min-width: 300px;">
+  <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=FFFFFF&sideNums=10B981&dates=FFFFFF" alt="GitHub Streak" loading="lazy" />
 </div>
 
 <!-- Top Languages Card -->
-<div style="width: 90%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<div style="width: 90%; min-width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8&exclude_repo=MCBANKSKE,MCBANKSKE.github.io" alt="Top Languages" loading="lazy" />
 </div>
 
 </div>
@@ -161,17 +161,27 @@ I don't just build applications — I design <strong>long‑term digital infrast
 
 ### 📱 Filament SMS Notifier — Laravel Package
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
 
-[![Package](https://github-readme-stats.vercel.app/api/pin/?username=MCBANKSKE&repo=filament-sms-notifier&theme=radical&show_owner=true)](https://github.com/MCBANKSKE/filament-sms-notifier)
+[![Package](https://github-readme-stats.vercel.app/api/pin/?username=MCBANKSKE&repo=filament-sms-notifier&theme=radical&show_owner=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&border_color=7C3AED&icon_color=10B981)](https://github.com/MCBANKSKE/filament-sms-notifier)
 
-<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
-  <img src="https://img.shields.io/github/stars/MCBANKSKE/filament-sms-notifier?style=for-the-badge&logo=github&color=7C3AED" alt="Stars" />
-  <img src="https://img.shields.io/packagist/dt/mcbanks/filament-sms-notifier?style=for-the-badge&logo=laravel&color=10B981" alt="Downloads" />
-  <img src="https://img.shields.io/packagist/v/mcbanks/filament-sms-notifier?style=for-the-badge&logo=php&color=FF6B6B" alt="Version" />
+<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
+  <a href="https://github.com/MCBANKSKE/filament-sms-notifier/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/MCBANKSKE/filament-sms-notifier?style=for-the-badge&logo=github&color=7C3AED&logoColor=white" alt="GitHub Stars" />
+  </a>
+  <a href="https://packagist.org/packages/mcbanks/filament-sms-notifier" target="_blank">
+    <img src="https://img.shields.io/packagist/dt/mcbanks/filament-sms-notifier?style=for-the-badge&logo=laravel&color=10B981&logoColor=white" alt="Packagist Downloads" />
+  </a>
+  <a href="https://packagist.org/packages/mcbanks/filament-sms-notifier" target="_blank">
+    <img src="https://img.shields.io/packagist/v/mcbanks/filament-sms-notifier?style=for-the-badge&logo=php&color=FF6B6B&logoColor=white" alt="Latest Version" />
+  </a>
+  <a href="https://github.com/MCBANKSKE/filament-sms-notifier/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/MCBANKSKE/filament-sms-notifier?style=for-the-badge&logo=github&color=3B82F6&logoColor=white" alt="Open Issues" />
+  </a>
 </div>
 
 </div>
+
 
 ---
 
