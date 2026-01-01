@@ -1,242 +1,288 @@
 # 👑 MC BANKS 🌟
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=2500&pause=500&color=7C3AED&center=true&vCenter=true&width=950&height=65&lines=Techpreneur;Software+Developer;Systems+Architect;Laravel+Specialist;Android+Developer;PHP+Expert;Kotlin+Engineer;Business+Automation+Specialist&repeat=true&random=false" />
-</h1>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=90&section=header&text=Welcome%20to%20My%20Digital%20Ecosystem&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=MC%20BANKS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=2800&pause=600&color=8A2BE2&center=true&vCenter=true&width=900&height=80&lines=Techpreneur+%E2%80%A2+Systems+Architect+%E2%80%A2+Full-Stack+Developer;Business+Automation+Specialist+%E2%80%A2+Digital+Transformation+Leader;Building+Scalable+Solutions+Across+East+Africa&repeat=true)
+
+![Location](https://img.shields.io/badge/📍_Mombasa,_Kenya-0a0a0a?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=8A2BE2)
+![Status](https://img.shields.io/badge/🚀_Building_Digital_Ecosystems-0a0a0a?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF6B35)
+![Focus](https://img.shields.io/badge/💼_Business+Automation-0a0a0a?style=for-the-badge&logo=workflow&logoColor=white&labelColor=00C896)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MCBANKSKE&label=Profile+Views&color=8A2BE2&style=flat-square)
+
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Mombasa,_Kenya-0D1117?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀_Techpreneur-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/💼_Business_Systems-10B981?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/🏆_Full_Stack_Engineer-FF6B6B?style=for-the-badge&logo=fullstory&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MCBANKSKE&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-</p>
 
 ---
 
-## 🎯 About Me
+## 🎯 **Digital Transformation Architect**
 
-> **"I architect digital ecosystems that transform business challenges into automated, scalable, and revenue‑driven solutions."**
+> ***"I architect and deploy mission-critical business systems that automate operations, drive revenue, and scale sustainably across emerging markets."***
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="80%" />
+  
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  
 </div>
 
-<p align="justify">
-I'm a <strong>self‑taught tech entrepreneur</strong>, <strong>full‑stack developer</strong>, and <strong>systems architect</strong> specializing in building <strong>mission‑critical business systems</strong> across East Africa. My work spans <strong>logistics, recruitment, legal, e‑commerce, investment, and enterprise automation</strong>.
-</p>
+### 🌍 **Strategic Impact**
 
-<p align="justify">
-I don't just build applications — I design <strong>long‑term digital infrastructure</strong> that reduces operational friction, increases revenue visibility, and scales sustainably with business growth.
-</p>
+| **Domain** | **Expertise** | **Business Value** |
+|------------|---------------|-------------------|
+| **🏗️ Enterprise Architecture** | Scalable system design, Microservices, Cloud Infrastructure | Reduced tech debt, Future-proof solutions |
+| **🔄 Process Automation** | Workflow optimization, API integrations, Business logic | 40-60% operational efficiency gain |
+| **📊 Revenue Systems** | Payment gateways, Subscription models, Analytics | Direct revenue enablement & tracking |
+| **🚀 Growth Scaling** | Multi-tenant systems, Database optimization, Load balancing | Support 10x user growth without rebuild |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
-</p>
+---
+
+## 🛠️ **Technical Arsenal**
 
 <div align="center">
 
-| **Strength**            | **Impact**                | **Approach**             |
-| ----------------------- | ------------------------- | ------------------------ |
-| 🏗️ System Architecture | 🚀 Scalable Platforms     | 💡 Business‑First Design |
-| 🔄 Process Automation   | 💰 Revenue Enablement     | 🛠️ Full‑Cycle Ownership |
-| 📱 Mobile & Web Systems | ⏱️ Operational Efficiency | 🛡️ Secure by Design     |
+### **Core Stack**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Infrastructure & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🚀 **Production Ecosystem**
 
-### 🔥 Core Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,kotlin,androidstudio,python,nodejs,mysql,redis,docker,aws,git,github,figma,vscode" />
-</div>
-
-### 📊 Specialized Domains
-
-<div align="center">
-
-| Domain                  | Capabilities                                      |
-| ----------------------- | ------------------------------------------------- |
-| 🖥️ Backend Engineering | Laravel Architecture, REST APIs, Queues, Payments |
-| 📱 Mobile Solutions     | Native Android (Kotlin), Offline‑First Systems    |
-| 🎨 Frontend & UX        | Responsive Design, Performance Optimization       |
-| ☁️ Cloud & DevOps       | Dockerized Deployments, AWS, CI/CD                |
-
-</div>
-
----
-
-## 🌍 Live Production Systems
-
-> **Flagship, production‑grade platforms I personally architected, built, and deployed.**
-> ⭐ = **Primary System / Flagship Build**
-
-### 🚚 Logistics & Transportation
-
-| ⭐ | Platform                 | What I Built                                            | Architecture Stack                                      | Live Link                                              |
-| - | ------------------------ | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ |
-| ⭐ | **Wakah Cargo (Global)** | Auth, Admin Panel, Order Flow, Payments, SMS, Reporting | Laravel • MySQL • Redis • M‑Pesa • SMS Gateway • Docker | [https://wakahcargo.com](https://wakahcargo.com)       |
-|   | Wakah Cargo Tanzania     | Localization, Pricing Engine, Ops Dashboard             | Laravel • MySQL • M‑Pesa                                | [https://tz.wakahcargo.com](https://wakah.co.tz) |
-|   | Wakah Cargo Uganda       | Regional Rules, Ops Automation                          | Laravel • MySQL • Mobile Payments                       | [https://ug.wakahcargo.com](https://ug.wakahcargo.com) |
-
----
-
-### 👥 Recruitment & HR Platforms
-
-| ⭐ | Platform             | What I Built                             | Architecture Stack                     | Live Link                                                                    |
-| - | -------------------- | ---------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------- |
-| ⭐ | **Legit Manpower**   | Auth, Job Portal, ATS, Admin, SMS Alerts | Laravel • MySQL • Redis • SMS • Docker | [https://legitmanpower.com](https://legitmanpower.com)                       |
-|   | Top Promise Manpower | Candidate Mgmt, Employer Dashboard       | Laravel • MySQL • SMS                  | [https://toppromisemanpower.co.ke](https://toppromisemanpower.co.ke)         |
-|   | Workforce Solutions  | Recruitment Workflow, Reporting          | Laravel • MySQL                        | [https://workforcesolutionsagency.com](https://workforcesolutionsagency.com) |
-|   | Eamal Solutions      | Applicant Tracking, Admin Automation     | Laravel • MySQL • SMS                  | [https://eamalsolutions.co.ke](https://eamalsolutions.co.ke)                 |
-
----
-
-### 💼 Business, Legal & Commerce
-
-| ⭐ | Platform                  | What I Built                           | Architecture Stack                  | Live Link                                                          |
-| - | ------------------------- | -------------------------------------- | ----------------------------------- | ------------------------------------------------------------------ |
-| ⭐ | **The Leather Giants**    | E‑commerce, Payments, Inventory, Admin | Laravel • MySQL • M‑Pesa • Paystack | [https://theleathergiants.com](https://theleathergiants.com)       |
-|   | Ideal Trading             | Trading Dashboard, Invoicing           | Laravel • MySQL                     | [https://idealtrading.co.ke](https://idealtrading.co.ke)           |
-|   | Morara Nyangito Advocates | Case Mgmt, Client Portal               | Laravel • MySQL                     | [https://moraranyangitoadv.co.ke](https://moraranyangitoadv.co.ke) |
-|   | Legit Smart Ventures      | Property Listings, Admin Ops           | Laravel • MySQL                     | [https://legitsmartventure.com](https://legitsmartventure.com)     |
-
----
-
-## 🏗️ Business Management Systems
+### **🌐 Logistics & Supply Chain**
 
 <div align="center">
 
-| System Type               | Key Features                   | Business Impact         |
-| ------------------------- | ------------------------------ | ----------------------- |
-| 🏫 School Management      | Academics, Fees, Timetables    | 60% admin reduction     |
-| ⛪ Church Systems          | Membership, Tithes, Events     | 45% engagement increase |
-| 🏢 Rental Management      | Tenants, Payments, Maintenance | 75% efficiency          |
-| 💰 Investment Platforms   | ROI, Dashboards, Payouts       | Scalable capital models |
-| 📦 Procurement Systems    | Inventory, Suppliers, POs      | 30% cost savings        |
-| 🧾 Accounting & Invoicing | Billing, Reports, Receipts     | 80% cash‑flow clarity   |
-| 👥 Recruitment Portals    | ATS, Scheduling, Tracking      | 50% faster hiring       |
-| 🌍 Diaspora Platforms     | Funding, Tracking, Security    | Cross‑border enablement |
+| **Platform** | **Role** | **Tech Stack** | **Status** |
+|--------------|----------|----------------|------------|
+| **[Wakah Cargo Global](https://wakahcargo.com)** | Lead Architect & Developer | Laravel • MySQL • Redis • M-Pesa | 🟢 **Live** |
+| **Wakah Cargo Tanzania** | System Localization Lead | Laravel • Custom Shipping Engine | 🟢 **Live** |
+| **Wakah Cargo Uganda** | Regional Adaptation Lead | Laravel • Mobile Payments | 🟢 **Live** |
 
 </div>
 
-<p align="center"><i>All systems are production‑tested, secure, and built to scale.</i></p>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 40px 0;">
-
-<!-- GitHub Stats Card -->
-<div style="width: 45%; min-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=FFFFFF" alt="GitHub Stats" loading="lazy" />
-</div>
-
-<!-- GitHub Streak Card -->
-<div style="width: 45%; min-width: 300px;">
-  <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=FFFFFF&sideNums=10B981&dates=FFFFFF" alt="GitHub Streak" loading="lazy" />
-</div>
-
-<!-- Top Languages Card -->
-<div style="width: 90%; min-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8&exclude_repo=MCBANKSKE,MCBANKSKE.github.io" alt="Top Languages" loading="lazy" />
-</div>
-
-</div>
-
----
-
-## 🏆 Open‑Source Contributions
-
-### 📱 Filament SMS Notifier — Laravel Package
-
-<div align="center" style="margin: 30px 0;">
-
-[![Package](https://github-readme-stats.vercel.app/api/pin/?username=MCBANKSKE&repo=filament-sms-notifier&theme=radical&show_owner=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&border_color=7C3AED&icon_color=10B981)](https://github.com/MCBANKSKE/filament-sms-notifier)
-
-<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
-  <a href="https://github.com/MCBANKSKE/filament-sms-notifier/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/MCBANKSKE/filament-sms-notifier?style=for-the-badge&logo=github&color=7C3AED&logoColor=white" alt="GitHub Stars" />
-  </a>
-  <a href="https://packagist.org/packages/mcbanks/filament-sms-notifier" target="_blank">
-    <img src="https://img.shields.io/packagist/dt/mcbanks/filament-sms-notifier?style=for-the-badge&logo=laravel&color=10B981&logoColor=white" alt="Packagist Downloads" />
-  </a>
-  <a href="https://packagist.org/packages/mcbanks/filament-sms-notifier" target="_blank">
-    <img src="https://img.shields.io/packagist/v/mcbanks/filament-sms-notifier?style=for-the-badge&logo=php&color=FF6B6B&logoColor=white" alt="Latest Version" />
-  </a>
-  <a href="https://github.com/MCBANKSKE/filament-sms-notifier/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/MCBANKSKE/filament-sms-notifier?style=for-the-badge&logo=github&color=3B82F6&logoColor=white" alt="Open Issues" />
-  </a>
-</div>
-
-</div>
-
-
----
-
-## 📊 Project Impact Metrics
+### **👥 Recruitment & HR Tech**
 
 <div align="center">
 
-| Metric           | Value    | Description                 |
-| ---------------- | -------- | --------------------------- |
-| 🚀 Live Systems  | 15+      | Actively serving businesses |
-| 🌍 Countries     | 3+       | Kenya • Tanzania • Uganda   |
-| 💼 Businesses    | 20+      | 8+ sectors                  |
-| 📦 Repositories  | 50+      | Public & Private            |
-| 🕒 Experience    | 5+ Years | Production systems          |
-| 👥 Team Projects | 10+      | Leadership & delivery       |
+| **Platform** | **Role** | **Tech Stack** | **Status** |
+|--------------|----------|----------------|------------|
+| **[Legit Manpower](https://legitmanpower.com)** | Full-Stack Developer | Laravel • ATS • SMS Integration | 🟢 **Live** |
+| **Top Promise Manpower** | System Architect | Laravel • Candidate Pipeline | 🟢 **Live** |
+| **Workforce Solutions** | Backend Developer | Laravel • Reporting Engine | 🟢 **Live** |
+
+</div>
+
+### **💼 Business & E-Commerce**
+
+<div align="center">
+
+| **Platform** | **Role** | **Tech Stack** | **Status** |
+|--------------|----------|----------------|------------|
+| **[The Leather Giants](https://theleathergiants.com)** | E-commerce Architect | Laravel • Multi-vendor • Payment Gateway | 🟢 **Live** |
+| **Ideal Trading** | Business System Developer | Laravel • Inventory Management | 🟢 **Live** |
+| **Legit Smart Ventures** | Property Platform Lead | Laravel • Listing Management | 🟢 **Live** |
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-| 🚀 MVP Development | 🔄 Process Automation | 🏗️ Architecture | 💼 Integrations |
-| ------------------ | --------------------- | ---------------- | --------------- |
-| Rapid Validation   | Workflow Elimination  | Scalable Design  | Payments & APIs |
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF6B35&text_color=ffffff" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCBANKSKE&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=FF6B35&currStreakLabel=ffffff" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-### 📬 Get In Touch
+---
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
+## 🏆 **Notable Projects**
 
-[![Website](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mcbankske.space)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mcbankske.space)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254798808796)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mcbanks)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MCBANKSKE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mcbanks.ke)
+### **📦 Open Source Package**
+
+<div align="center">
+
+[![Filament SMS Notifier](https://github-readme-stats.vercel.app/api/pin/?username=MCBANKSKE&repo=filament-sms-notifier&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff)](https://github.com/MCBANKSKE/filament-sms-notifier)
+
+<div>
+  <img src="https://img.shields.io/github/stars/MCBANKSKE/filament-sms-notifier?style=for-the-badge&logo=github&color=8A2BE2" alt="Stars" />
+  <img src="https://img.shields.io/packagist/dt/mcbanks/filament-sms-notifier?style=for-the-badge&logo=laravel&color=FF6B35" alt="Downloads" />
+  <img src="https://img.shields.io/github/issues/MCBANKSKE/filament-sms-notifier?style=for-the-badge&logo=github&color=00C896" alt="Issues" />
+</div>
+
+</div>
+
+### **🔧 Custom Business Systems**
+
+| **Industry** | **System Type** | **Key Features** | **Impact** |
+|--------------|-----------------|------------------|------------|
+| **Education** | School Management System | Academics, Fees, Timetables, Reports | 60% admin reduction |
+| **Real Estate** | Rental Management | Tenants, Payments, Maintenance Tracking | 75% efficiency gain |
+| **Church** | Membership System | Tithes, Events, Communication Portal | 45% engagement increase |
+| **Investment** | ROI Platform | Dashboard, Payouts, Reporting | Scalable capital management |
+
+---
+
+## 🌟 **Business Philosophy**
+
+<div align="center">
+
+```yaml
+approach:
+  principle: "Technology as Business Enabler"
+  methodology: "From MVP to Enterprise Scale"
+  focus: "Revenue-Driving Features First"
+  delivery: "Production-Ready in Iterations"
+
+value_proposition:
+  - "Turn operational challenges into automated workflows"
+  - "Build systems that scale with your business growth"
+  - "Implement data-driven decision making"
+  - "Reduce technical debt from day one"
+```
+
+</div>
+
+---
+
+## 📈 **Impact Metrics**
+
+<div align="center">
+
+| **Metric** | **Count** | **Description** |
+|------------|-----------|-----------------|
+| 🏢 **Live Production Systems** | 15+ | Actively serving businesses |
+| 🌍 **Countries Served** | 3+ | Kenya, Tanzania, Uganda |
+| 💼 **Business Verticals** | 8+ | Logistics, HR, E-commerce, Legal, etc. |
+| ⚡ **Deployment Speed** | 2-4 weeks | From concept to MVP |
+| 📊 **Code Repositories** | 50+ | Public & Private projects |
+| 🎯 **Client Retention** | 90%+ | Long-term partnerships |
+
+</div>
+
+---
+
+## 🤝 **Collaboration Matrix**
+
+<div align="center">
+
+| **Ideal For** | **What I Deliver** | **Timeline** |
+|---------------|-------------------|--------------|
+| **🚀 Startups** | MVP Development, Tech Strategy | 2-4 weeks |
+| **🏢 SMEs** | Business Automation, System Integration | 4-8 weeks |
+| **🏭 Enterprises** | Legacy Modernization, Scalable Architecture | 8-16 weeks |
+| **🌍 Scale-ups** | Multi-region Deployment, Performance Optimization | Custom |
+
+</div>
+
+---
+
+## 📞 **Connect & Collaborate**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://mcbankske.space">
+        <img src="https://img.icons8.com/color/96/000000/domain.png" width="60" /><br/>
+        <strong>Portfolio</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:info@mcbankske.space">
+        <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" /><br/>
+        <strong>Email</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/254798808796">
+        <img src="https://img.icons8.com/color/96/000000/whatsapp.png" width="60" /><br/>
+        <strong>WhatsApp</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/mcbanks">
+        <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" /><br/>
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MCBANKSKE">
+        <img src="https://img.icons8.com/color/96/000000/github.png" width="60" /><br/>
+        <strong>GitHub</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/mcbanks.ke">
+        <img src="https://img.icons8.com/color/96/000000/instagram.png" width="60" /><br/>
+        <strong>Instagram</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://calendly.com/mcbanks">
+        <img src="https://img.icons8.com/color/96/000000/calendar.png" width="60" /><br/>
+        <strong>Schedule Call</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mcbankske.space/projects">
+        <img src="https://img.icons8.com/color/96/000000/project.png" width="60" /><br/>
+        <strong>Case Studies</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=90&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
-<p><strong>"I don't just write code — I architect digital ecosystems that scale businesses."</strong></p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's+Build+Something+Remarkable&fontSize=32&fontColor=ffffff&animation=fadeIn)
 
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/github/followers/MCBANKSKE?style=social&label=Follow" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Last_Updated-April_2024-7C3AED?style=for-the-badge&logo=calendar&logoColor=white" alt="Last Updated" />
+### **"Code that powers businesses, architecture that scales dreams."**
+
+🚀 **Ready to transform your business with technology? Let's architect your digital future.**
+
+⭐ **Star my repositories if you find them valuable!**
+
 </div>
 
-</div>
+---
 
-<p align="center"><i>🚀 Ready to transform your business with technology? Let's build something remarkable.</i></p>
+<div align="right">
+
+*Last Updated: April 2024 | Built with ❤️ from Mombasa*
+
+</div>
