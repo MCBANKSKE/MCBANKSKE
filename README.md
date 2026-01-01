@@ -123,14 +123,7 @@ I specialize in **long-term infrastructure**, not short-term hacks.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical&hide_border=true" />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MCBANKSKE&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ---
 
 ## 🤝 Work With Me
