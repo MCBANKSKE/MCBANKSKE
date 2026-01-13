@@ -181,11 +181,7 @@ I build **systems that stay online, handle money, scale across countries, and su
 
 ## 📊 GitHub Activity & Streak (Working Badge)
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MCBANKSKE&theme=radical&hide_border=true" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MCBANKSKE&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
