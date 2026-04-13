@@ -122,20 +122,8 @@ I build **systems that stay online, handle money, scale across countries, and su
 
 **Live Platforms**
 - https://theleathergiants.com  
-- https://learnhub.mcbankske.space  
-
----
-
-## 🧩 Current & Ongoing Builds
-
-### 🛍️ **Soko Yetu**
-> A **Jiji-style online marketplace platform**
-
-- Product & service listings  
-- Category & location-based search  
-- Seller dashboards  
-- Messaging & moderation  
-- Built for scale and future monetization  
+- https://learnhub.mcbankske.space
+-  https://letslearn.mcbankske.space
 
 ---
 
