@@ -1,50 +1,63 @@
+<div align="center">
 
-# 👑 MC BANKS  
-### Tech Entrepreneur • Systems Architect • Laravel & Android Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MC%20BANKS&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Laravel%20%26%20Android%20Engineer&descAlignY=58&descSize=20" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Architecting+Production-Grade+Business+Systems;Laravel+%7C+PHP+%7C+Android+(Kotlin);Automation%2C+Logistics+%26+Marketplaces;East+Africa+Focused+%7C+Built+to+Scale+Globally" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=Founder+%40+Paynexus+%7C+Payments+Infrastructure;Director+%40+WATT-IF+LTD;Architecting+Production-Grade+Business+Systems;Laravel+%7C+PHP+%7C+Android+(Kotlin);Logistics+%2C+Recruitment+%26+Fintech+%7C+East+Africa+%E2%86%92+Global" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Mombasa%2C+Kenya-0D1117?style=for-the-badge&logo=google-maps" />
-  <img src="https://img.shields.io/badge/Role-Systems+Architect-7C3AED?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Focus-Business+Automation-10B981?style=for-the-badge&logo=buffer" />
-  <img src="https://img.shields.io/badge/Stack-Full+Stack-FF6B6B?style=for-the-badge&logo=code" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MCBANKSKE&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Location-Mombasa%2C+Kenya-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=6D28D9" />
+<img src="https://img.shields.io/badge/Founder-Paynexus-0D1117?style=for-the-badge&logo=stripe&logoColor=white&labelColor=059669" />
+<img src="https://img.shields.io/badge/Director-WATT--IF+LTD-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=DB2777" />
+<img src="https://img.shields.io/badge/Stack-Full+Stack-0D1117?style=for-the-badge&logo=code&logoColor=white&labelColor=EA580C" />
 
----
+<img src="https://komarev.com/ghpvc/?username=MCBANKSKE&label=Profile+Views&color=A855F7&style=for-the-badge" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🧠 Who I Am
 
-> **I design and build digital systems that replace manual work with automation, visibility, and predictable growth.**
+> **I found and build companies and digital systems that replace manual work with automation, payments infrastructure, and predictable growth.**
 
-I am a **self-taught software engineer and systems architect** focused on delivering **production-grade platforms** that run real businesses across logistics, recruitment, commerce, and education.
+I am a **self-taught software engineer, founder, and systems architect** who builds **production-grade platforms** running real businesses across **fintech, logistics, recruitment, commerce, and education** — and I lead ventures of my own alongside client work.
 
-I don’t build demos.  
-I build **systems that stay online, handle money, scale across countries, and support daily operations**.
+I don't build demos.
+I build **systems that stay online, handle money, scale across countries, and support daily operations.**
 
-### My Core Focus
-- Automating operational workflows  
-- Increasing revenue and operational visibility  
-- Designing systems that scale across regions  
-- Long-term maintainability and security  
+<table align="center">
+<tr>
+<td align="center" width="25%">🏢<br/><b>Founding Companies</b><br/>Building products I own end-to-end</td>
+<td align="center" width="25%">🔄<br/><b>Business Automation</b><br/>Removing manual work at scale</td>
+<td align="center" width="25%">💳<br/><b>Payments & Fintech</b><br/>M-Pesa, ledgers, reconciliation</td>
+<td align="center" width="25%">📊<br/><b>Visibility</b><br/>Real-time dashboards & reporting</td>
+</tr>
+</table>
 
 ---
 
-## 🧱 What I Build (In Practice)
+## 🏛️ Companies I Lead
 
-| Area | Real-World Impact |
-|---|---|
-| 🏗️ System Architecture | Modular, scalable, secure platforms |
-| 🔄 Business Automation | Reduced manual work & operational errors |
-| 💳 Payments & Finance | M-Pesa, Paystack, ledgers & reconciliation |
-| 📊 Dashboards & Reporting | Real-time business intelligence |
-| 📱 Mobile Systems | Native Android, offline-first solutions |
+<div align="center">
+
+### 💠 Paynexus — *Founder & Developer*
+**Payments infrastructure for businesses across Kenya**
+
+[![Paynexus](https://img.shields.io/badge/Website-paynexus.co.ke-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7C3AED)](https://paynexus.co.ke)
+[![Nexus Invoice](https://img.shields.io/badge/Nexus%20Invoice-nexus.mcbankske.space-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=059669)](https://nexus.mcbankske.space)
+
+*Paynexus powers payment collection and reconciliation, while **Nexus Invoice** — its invoicing product — gives businesses fast, professional billing and payment tracking.*
+
+<br/>
+
+### ⚡ WATT-IF LTD — *Director*
+
+[![WATT-IF LTD](https://img.shields.io/badge/Website-watt--innovationfactory.com-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=DB2777)](https://watt-innovationfactory.com/)
+
+*An innovation factory building forward-looking digital ventures.*
+
+</div>
 
 ---
 
@@ -54,105 +67,105 @@ I build **systems that stay online, handle money, scale across countries, and su
   <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,androidstudio,js,html,css,bootstrap,mysql,redis,docker,aws,git,github,vscode,figma" />
 </p>
 
-### Specialization
-- **Laravel**: APIs, queues, jobs, events, Filament admin panels  
-- **Android (Kotlin)**: Background services, automation, API sync  
-- **Infrastructure**: Dockerized deployments, VPS, AWS  
-- **Integrations**: SMS, WhatsApp, payments, third-party APIs  
+<div align="center">
+
+| Specialization | Details |
+|---|---|
+| **Laravel** | APIs, queues, jobs, events, Filament admin panels |
+| **Android (Kotlin)** | Background services, automation, API sync |
+| **Payments** | M-Pesa, Paystack, ledgers, reconciliation engines |
+| **Infrastructure** | Dockerized deployments, VPS, AWS |
+| **Integrations** | SMS, WhatsApp, third-party APIs |
+
+</div>
 
 ---
 
 ## 🚀 Live Production Platforms
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 > Systems currently serving real users, real operations, and real revenue.
 
----
+### 💳 Fintech
 
-### 🚚 Logistics & Cargo Systems (Multi-Country)
+<div align="center">
+
+| Platform | Role | Link |
+|---|---|---|
+| **Paynexus** | Founder & Developer | [paynexus.co.ke](https://paynexus.co.ke) |
+| **Nexus Invoice** | Founder & Developer | [nexus.mcbankske.space](https://nexus.mcbankske.space) |
+
+</div>
+
+### 🚚 Logistics & Cargo Systems (Multi-Country) — *Developer*
+
+<div align="center">
 
 | Platform | Scope & Capabilities |
 |---|---|
 | **Wakah Cargo – Global Core** | Order management, pricing, payments, admin dashboards, SMS |
-| Wakah Kenya | Local logistics & courier operations |
-| Wakah Uganda | Regional cargo & automation |
-| Wakah Tanzania | Localized pricing & operations |
-| Wakah Cargo Zambia | Regional cargo services |
+| Wakah Kenya | [wakah.co.ke](https://www.wakah.co.ke) — local logistics & courier operations |
+| Wakah Uganda | [wakah.co.ug](https://www.wakah.co.ug) — regional cargo & automation |
+| Wakah Tanzania | [wakah.co.tz](https://www.wakah.co.tz) — localized pricing & operations |
+| Wakah Zambia | [wakah.co.zm](https://www.zm.wakahcargo.com) — regional cargo services |
 
-**Live Platforms**
-- https://www.wakah.co.ke  
-- https://www.wakah.co.ug  
-- https://www.wakah.co.tz  
-- https://www.wakahcargo.com  
-- https://www.zm.wakahcargo.com  
+</div>
 
-**Key Features**
-- Shipment & order tracking  
-- Payment handling & reconciliation  
-- Regional pricing logic  
-- Admin & reporting dashboards  
-- SMS notifications  
+**Key Features:** Shipment & order tracking · Payment handling & reconciliation · Regional pricing logic · Admin & reporting dashboards · SMS notifications
 
----
+### 👥 Recruitment & Workforce Systems — *Developer*
 
-### 👥 Recruitment & Workforce Systems
+<div align="center">
 
-| Platform | Capabilities |
+| Platform | Link |
 |---|---|
-| **Legit Manpower** | Job portal, ATS, candidate management, SMS alerts |
-| Legit Smart Ventures | Business & recruitment systems |
-| Top Promise Manpower | Employer & candidate dashboards |
-| EA Mal Solutions | Workforce & HR solutions |
-| Workforce Solutions Agency | Hiring workflows & recruitment ops |
+| **Golden Hearts Recruiters** | [goldenheartsrecruiters.com](https://goldenheartsrecruiters.com/) |
+| **Legit Manpower** | [legitmanpower.com](https://legitmanpower.com/) |
+| **Workforce Solutions Agency** | [workforcesolutionsagency.com](https://workforcesolutionsagency.com/) |
+| **Denstar Agency** | [denstaragency.com](https://www.denstaragency.com/) |
 
-**Live Platforms**
-- https://legitmanpower.com  
-- https://legitsmartventures.com  
-- https://toppromisemanpower.co.ke  
-- https://www.eamalsolutions.co.ke  
-- https://workforcesolutionsagency.com  
+</div>
 
----
+Each platform includes job portals, ATS & candidate management, employer dashboards, and SMS alerting.
 
 ### 🛒 Commerce & Digital Platforms
 
-| Platform | Focus |
-|---|---|
-| **The Leather Giants** | E-commerce, inventory, payments |
-| LearnHub | Learning management system (courses, progress, users) |
+<div align="center">
 
-**Live Platforms**
-- https://theleathergiants.com  
-- https://learnhub.mcbankske.space
--  https://letslearn.mcbankske.space
+| Platform | Focus | Link |
+|---|---|---|
+| **The Leather Giants** | E-commerce, inventory, payments | [theleathergiants.com](https://theleathergiants.com) |
+| **LearnHub** | Learning management system | [learnhub.mcbankske.space](https://learnhub.mcbankske.space) |
+| **Let's Learn** | Learning platform | [letslearn.mcbankske.space](https://letslearn.mcbankske.space) |
 
----
+</div>
 
-### 📱 **Android Auto-Forwarding Application**
+### 📱 Android Auto-Forwarding Application
+
 > Native Android app that **automatically forwards messages to a configured API endpoint**
 
-- Background service execution  
-- Event-based message capture  
-- Secure API posting  
-- Used for automation & system integrations  
+- Background service execution
+- Event-based message capture
+- Secure API posting
+- Used for automation & system integrations
 
 ---
 
 ## 🧩 Business Systems I Deliver
 
-- 🏫 School Management Systems  
-- 🏢 Rental & Property Management Platforms  
-- 💰 Investment & ROI Dashboards  
-- ⛪ Church & NGO Financial Systems  
-- 📦 Inventory & Procurement Systems  
-- 🧾 Accounting & Billing Engines  
+<div align="center">
 
-> All systems are **secure, auditable, and built for long-term scalability**.
+🏫 School Management Systems&nbsp;&nbsp;|&nbsp;&nbsp;🏢 Rental & Property Management&nbsp;&nbsp;|&nbsp;&nbsp;💰 Investment & ROI Dashboards
+⛪ Church & NGO Financial Systems&nbsp;&nbsp;|&nbsp;&nbsp;📦 Inventory & Procurement&nbsp;&nbsp;|&nbsp;&nbsp;🧾 Accounting & Billing Engines
+
+</div>
+
+> All systems are **secure, auditable, and built for long-term scalability.**
 
 ---
 
 ## 📦 Open Source
-
-### Filament SMS Notifier (Laravel)
 
 <p align="center">
   <a href="https://github.com/MCBANKSKE/filament-sms-notifier">
@@ -160,48 +173,50 @@ I build **systems that stay online, handle money, scale across countries, and su
   </a>
 </p>
 
-**Features**
-- SMS notifications for Filament Admin  
-- Production-ready  
-- Actively maintained  
+<div align="center"><b>Filament SMS Notifier</b> — SMS notifications for Filament Admin · Production-ready · Actively maintained</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/MCBANKSKE">
-    <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true" height="180" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCBANKSKE&theme=highcontrast&hide_border=true" height="180" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCBANKSKE&theme=highcontrast&hide_border=true" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCBANKSKE&theme=redical&hide_border=true&bg_color=0D1117" />
+</p>
+
 ---
 
 ## 🤝 Work With Me
 
 I help founders, agencies, and organizations to:
-- Launch scalable MVPs  
-- Replace spreadsheets with real systems  
-- Automate operations and reporting  
-- Integrate payments, SMS, and APIs  
+- Launch scalable MVPs
+- Replace spreadsheets with real systems
+- Automate operations and reporting
+- Integrate payments, SMS, and APIs
 
 ---
 
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://mcbankske.space"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:info@mcbankske.space"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://wa.me/254798808796"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" /></a>
-  <a href="https://linkedin.com/in/mcbanks"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://mcbankske.space"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:info@mcbankske.space"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/254798808796"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mcbanks"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" />
+</div>
 
 <p align="center">
-  <strong>“I don’t just write code — I build systems that run businesses.”</strong>
+  <strong>"I don't just write code — I build companies and systems that run businesses."</strong>
 </p>
