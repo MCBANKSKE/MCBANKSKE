@@ -9,7 +9,10 @@ Architecting production-grade business systems across fintech, logistics & recru
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📍 **Mombasa, Kenya** &nbsp;|&nbsp; 💳 **Founder, Paynexus** &nbsp;|&nbsp; ⚡ **Director, WATT-IF LTD** &nbsp;|&nbsp; 🧱 **Full Stack**
+<img src="https://img.shields.io/badge/Location-Mombasa%2C+Kenya-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=6D28D9" />
+<img src="https://img.shields.io/badge/Founder-Paynexus-0D1117?style=for-the-badge&logo=stripe&logoColor=white&labelColor=059669" />
+<img src="https://img.shields.io/badge/Director-WATT--IF+LTD-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=DB2777" />
+<img src="https://img.shields.io/badge/Stack-Full+Stack-0D1117?style=for-the-badge&logo=code&logoColor=white&labelColor=EA580C" />
 
 </div>
 
