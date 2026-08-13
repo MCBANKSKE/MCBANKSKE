@@ -167,22 +167,32 @@ Each platform includes job portals, ATS & candidate management, employer dashboa
 
 ## 📦 Open Source
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/MCBANKSKE/filament-sms-notifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCBANKSKE&repo=filament-sms-notifier&theme=radical&hide_border=true&cache_seconds=86400" />
+  </a>
+</p>
 
-**[Filament SMS Notifier](https://github.com/MCBANKSKE/filament-sms-notifier)**
-SMS notifications for Filament Admin · Production-ready · Actively maintained
-
-</div>
+<div align="center"><b>Filament SMS Notifier</b> — SMS notifications for Filament Admin · Production-ready · Actively maintained</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MCBANKSKE/MCBANKSKE/main/assets/metrics.svg" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=MCBANKSKE&theme=highcontrast&hide_border=true" height="180" />
 </p>
 
-<sub><i>This card is generated inside this repo by a scheduled GitHub Action (see setup note below), so it never depends on a third-party server being up.</i></sub>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCBANKSKE&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
+
+<sub><i>These cards are served by the community-run public instance of github-readme-stats. It's the most widely used option and usually reliable, but the project itself notes the free tier can occasionally rate-limit under heavy traffic — if a card ever goes blank, it typically recovers on its own within an hour.</i></sub>
 
 ---
 
