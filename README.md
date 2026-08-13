@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ## 🧠 Who I Am
 
@@ -81,9 +81,9 @@ I build **systems that stay online, handle money, scale across countries, and su
 
 ---
 
-## 🚀 Live Production Platforms
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## 🚀 Live Production Platforms
 
 > Systems currently serving real users, real operations, and real revenue.
 
@@ -167,30 +167,22 @@ Each platform includes job portals, ATS & candidate management, employer dashboa
 
 ## 📦 Open Source
 
-<p align="center">
-  <a href="https://github.com/MCBANKSKE/filament-sms-notifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCBANKSKE&repo=filament-sms-notifier&theme=radical&hide_border=true" />
-  </a>
-</p>
+<div align="center">
 
-<div align="center"><b>Filament SMS Notifier</b> — SMS notifications for Filament Admin · Production-ready · Actively maintained</div>
+**[Filament SMS Notifier](https://github.com/MCBANKSKE/filament-sms-notifier)**
+SMS notifications for Filament Admin · Production-ready · Actively maintained
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCBANKSKE&theme=highcontrast&hide_border=true" height="180" />
+  <img src="https://raw.githubusercontent.com/MCBANKSKE/MCBANKSKE/main/assets/metrics.svg" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCBANKSKE&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
+<sub><i>This card is generated inside this repo by a scheduled GitHub Action (see setup note below), so it never depends on a third-party server being up.</i></sub>
 
 ---
 
