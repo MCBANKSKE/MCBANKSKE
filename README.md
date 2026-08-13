@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MC%20BANKS&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Laravel%20%26%20Android%20Engineer&descAlignY=58&descSize=20" />
+# 👑 MC BANKS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=Founder+%40+Paynexus+%7C+Payments+Infrastructure;Director+%40+WATT-IF+LTD;Architecting+Production-Grade+Business+Systems;Laravel+%7C+PHP+%7C+Android+(Kotlin);Logistics+%2C+Recruitment+%26+Fintech+%7C+East+Africa+%E2%86%92+Global" />
+### Founder • Systems Architect • Laravel & Android Engineer
 
-<br/>
+**Founder @ Paynexus** · **Director @ WATT-IF LTD**
+Architecting production-grade business systems across fintech, logistics & recruitment
 
-<img src="https://img.shields.io/badge/Location-Mombasa%2C+Kenya-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=6D28D9" />
-<img src="https://img.shields.io/badge/Founder-Paynexus-0D1117?style=for-the-badge&logo=stripe&logoColor=white&labelColor=059669" />
-<img src="https://img.shields.io/badge/Director-WATT--IF+LTD-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=DB2777" />
-<img src="https://img.shields.io/badge/Stack-Full+Stack-0D1117?style=for-the-badge&logo=code&logoColor=white&labelColor=EA580C" />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://komarev.com/ghpvc/?username=MCBANKSKE&label=Profile+Views&color=A855F7&style=for-the-badge" />
+📍 **Mombasa, Kenya** &nbsp;|&nbsp; 💳 **Founder, Paynexus** &nbsp;|&nbsp; ⚡ **Director, WATT-IF LTD** &nbsp;|&nbsp; 🧱 **Full Stack**
 
 </div>
 
@@ -78,8 +76,6 @@ I build **systems that stay online, handle money, scale across countries, and su
 | **Integrations** | SMS, WhatsApp, third-party APIs |
 
 </div>
-
----
 
 ---
 
@@ -167,32 +163,25 @@ Each platform includes job portals, ATS & candidate management, employer dashboa
 
 ## 📦 Open Source
 
-<p align="center">
-  <a href="https://github.com/MCBANKSKE/filament-sms-notifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCBANKSKE&repo=filament-sms-notifier&theme=radical&hide_border=true&cache_seconds=86400" />
-  </a>
-</p>
+<div align="center">
 
-<div align="center"><b>Filament SMS Notifier</b> — SMS notifications for Filament Admin · Production-ready · Actively maintained</div>
+| Project | Description |
+|---|---|
+| **[MCBANKS-TRADES-DATA-COLLECTOR](https://github.com/MCBANKSKE/MCBANKS-TRADES-DATA-COLLECTOR)** | Trades data collection tooling |
+| **[paynexus-laravel-plugin](https://github.com/MCBANKSKE/paynexus-laravel-plugin)** | Paynexus integration plugin for Laravel |
+| **[paynexus-python-sdk](https://github.com/MCBANKSKE/paynexus-python-sdk)** | Paynexus SDK for Python |
+| **[paynexus-node-sdk](https://github.com/MCBANKSKE/paynexus-node-sdk)** | Paynexus SDK for Node.js |
+| **[paynexus-wordpress-plugin](https://github.com/MCBANKSKE/paynexus-wordpress-plugin)** | Paynexus integration plugin for WordPress |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCBANKSKE&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180" />
   <img src="https://streak-stats.demolab.com/?user=MCBANKSKE&theme=highcontrast&hide_border=true" height="180" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCBANKSKE&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCBANKSKE&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
-
-<sub><i>These cards are served by the community-run public instance of github-readme-stats. It's the most widely used option and usually reliable, but the project itself notes the free tier can occasionally rate-limit under heavy traffic — if a card ever goes blank, it typically recovers on its own within an hour.</i></sub>
 
 ---
 
@@ -216,9 +205,9 @@ I help founders, agencies, and organizations to:
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" />
-</div>
 
-<p align="center">
-  <strong>"I don't just write code — I build companies and systems that run businesses."</strong>
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<strong>"I don't just write code — I build companies and systems that run businesses."</strong>
+
+</div>
