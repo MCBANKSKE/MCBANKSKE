@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MC%20BANKS&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Laravel%20%26%20Android%20Engineer&descAlignY=58&descSize=20" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=Founder+%40+Paynexus+%7C+Payments+Infrastructure;Director+%40+WATT-IF+LTD;Architecting+Production-Grade+Business+Systems;Laravel+%7C+PHP+%7C+Android+(Kotlin);Logistics+%2C+Recruitment+%26+Fintech+%7C+East+Africa+%E2%86%92+Global" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=Founder+%40+Paynexus+%7C+Payments+Infrastructure;Director+%40+WATT-IF+LTD;Architecting+Production-Grade+Business+Systems;Laravel+%7C+PHP+%7C+Android+(Kotlin);Logistics+%2C+Recruitment+%26+Fintech+%7C+East+Africa+%E2%86%92+Global" />
 
 <br/>
 
@@ -189,7 +189,7 @@ Each platform includes job portals, ATS & candidate management, employer dashboa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCBANKSKE&theme=redical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCBANKSKE&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
